@@ -1,0 +1,10 @@
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\bin\Debug\Translation2.exe.config
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\bin\Debug\Translation2.exe
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\bin\Debug\Translation2.pdb
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.csproj.AssemblyReference.cache
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.Form1.resources
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.Properties.Resources.resources
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.csproj.GenerateResource.cache
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.csproj.CoreCompileInputs.cache
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.exe
+C:\Users\antsa\source\repos\Cpt 232\Translation2\Translation2\obj\Debug\Translation2.pdb
